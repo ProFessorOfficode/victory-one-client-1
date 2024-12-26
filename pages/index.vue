@@ -4,7 +4,7 @@
       <!-- MAIN PRODUCTS Header -->
       <v-row class="mb-4">
         <v-col cols="12">
-          <h2 class="header-title">MAIN PRODUCTS</h2>
+          <h2 class="header-title">MAIN PRODUCTSS</h2>
         </v-col>
       </v-row>
 
