@@ -58,7 +58,7 @@
           <v-card-title class="headline">GCash Payment</v-card-title>
           <v-card-text>
             <div class="text-center">
-              <img src="@assets/Gcash.jpg" alt="GCash Image" class="gcash-image" />
+              <img src="assets/Gcash.jpg" alt="GCash Image" class="gcash-image" />
               <p class="gcash-description">Scan the QR code to pay via GCash.</p>
               <p class="gcash-description">Input Reference Number.<input type="text"/></p>
             </div>
